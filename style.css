@@ -21,3 +21,23 @@ body {
         color: white;
         padding: 10px 20px;
 }
+
+.category-bg1 {
+        background: rgb(255, 165, 0);
+        border-radius: 10px;
+}
+
+.category-bg2 {
+        background: rgb(218, 112, 214);
+        border-radius: 10px;
+}
+
+.category-bg3 {
+        background: rgb(0, 0, 255);
+        border-radius: 10px;
+}
+
+#subscribe {
+        background: rgb(252, 234, 232);
+        height: 350px;
+}
