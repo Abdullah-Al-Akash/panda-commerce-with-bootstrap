@@ -1,0 +1,23 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+body {
+        width: 100%;
+}
+
+.banner-bg {
+        background: rgb(252, 234, 232);
+}
+
+.pink {
+        color: rgb(255, 75, 146);
+}
+
+.buy-btn {
+        background: rgb(255, 75, 146);
+        color: white;
+        padding: 10px 20px;
+}
