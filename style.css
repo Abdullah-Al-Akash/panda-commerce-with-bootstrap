@@ -12,8 +12,17 @@ html {
         scroll-behavior: smooth;
 }
 
+.nav-bg {
+        background: lightgoldenrodyellow;
+        border-bottom: 1px dotted black;
+}
+
 .banner-bg {
         background: rgb(252, 234, 232);
+}
+
+nav ul li a {
+        font-weight: 700;
 }
 
 .pink {
@@ -44,5 +53,6 @@ html {
 }
 
 footer {
-        background: rgb(252, 234, 232);
+        background: lightgoldenrodyellow;
+        border-top: 1px dotted black;
 }
